@@ -209,6 +209,7 @@
  	</textarea>
  	<hr color="black">
  	 
+	 
  	<input type="submit" value=" 확인 " > &nbsp;
   	<input type="reset" value=" 취소 ">
  </form>
